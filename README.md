@@ -5,5 +5,4 @@
 my travel blog/" target="_blank"><strong>➥ Live Demo</strong></a>
 </div> <br/><br/>
 <b>Screenshots:</b> <br/><br/>
-<img src="https://github.com/dreamyxaisyah/my travel blog/blob/main/readme%20images/readme-image.jpg"></img>
-![image alt](https://github.com/dreamyxaisyah/my-travel-blog/tree/3f9c56521f3772687611c723c0ddf10f7585809e/images)
+<img src="https://github.com/dreamyxaisyah/my-travel-blog/tree/3f9c56521f3772687611c723c0ddf10f7585809e/images)"></img>
