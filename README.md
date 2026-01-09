@@ -5,7 +5,4 @@
 my travel blog/" target="_blank"><strong>➥ screenshoot</strong></a>
 </div> <br/><br/>
 <b>Screenshots:</b> <br/><br/>
-<img src="https://github.com/dreamyxaisyah/my-travel blog/blob/main/readme%20iscreenshoot/readme-image.jpg"></img>
-
-
-
+<img width="1265" height="862" alt="image" src="https://github.com/user-attachments/assets/ad025ba0-1325-4752-874d-5f8e9b0b83ca" />
