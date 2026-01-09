@@ -2,7 +2,7 @@
 <div align="center">
 <p>A travel website project created using HTML, CSS and JavaScript.</p>
 <a href="https://dreamyxaisyah.github.io/
-
+my travel blog/" target="_blank"><strong>➥ screenshoot</strong></a>
 </div> <br/><br/>
 <b>Screenshots:</b> <br/><br/>
 <img width="1265" height="862" alt="image" src="https://github.com/user-attachments/assets/ad025ba0-1325-4752-874d-5f8e9b0b83ca" />
